@@ -1,0 +1,26 @@
+body {
+		background: linear-gradient(to right, #3366ff 0%, #ff00ff 100%)
+	}
+	header{
+		font-family: monospace;
+		font-size: 80px;
+		font-smooth: auto;
+		color: linear-gradient(to right, #3366ff 0%, #ff00ff 100%);
+		outline: 10px solid white;
+		text-align: center;
+		border: 2px solid white;
+	}
+	button a {
+		font-size: 30px;
+		outline: 8px solid white;
+		font-family: monospace;
+		color: black;
+		border: 4px solid black;
+	}
+	p {
+		font-size: 20px;
+		font-family: monospace;
+		color: black;
+		background-color: white;
+		text-align: justify;
+	}
